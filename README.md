@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-|    05.04.2024 23:00 |   10        |
+|    13.04.2024 23:00 |   10        |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -37,4 +37,8 @@ Zdefiniuj i wykorzystaj słownik, która będzie posiadał klucze zawierające i
 Następnie posortuje dowolnym algorytmem daty rosnąco.
 
 Uwaga: Napisz algorytm sortujący od podstaw. Nie korzystaj z gotowych rozwiązań dostępnych w Pythonie.
+
+## Uwaga
+Napisz wszystkie algorytmy bez wykorzystywania funkcji. 
+Napisz *use cases* do prezentowanych algorytmów i przetestuj czy zwracają dobre wyniki - najlepiej automatycznie.
 
